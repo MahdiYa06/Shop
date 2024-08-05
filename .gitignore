@@ -178,4 +178,5 @@ pyrightconfig.json
 
 # self ignores
 
-/media
+
+media/
